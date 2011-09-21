@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: joint actions and mindreading paris HANDOUT.aux
+The style file: newapa.bst
+Database file #1: $HOME/endnote/phd_biblio.bib
+`author' is a missing field, not a string, for entry Astington2005ot
+while executing---line 1385 of file newapa.bst
+You've used 33 entries,
+            2708 wiz_defined-function locations,
+            808 strings with 9588 characters,
+and the built_in function-call counts, 14309 in all, are:
+= -- 1292
+> -- 555
+< -- 23
++ -- 199
+- -- 195
+* -- 1414
+:= -- 2707
+add.period$ -- 100
+call.type$ -- 33
+change.case$ -- 260
+chr.to.int$ -- 33
+cite$ -- 33
+duplicate$ -- 522
+empty$ -- 995
+format.name$ -- 248
+if$ -- 2626
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 35
+newline$ -- 168
+num.names$ -- 133
+pop$ -- 154
+preamble$ -- 1
+purify$ -- 296
+quote$ -- 0
+skip$ -- 357
+stack$ -- 0
+substring$ -- 1054
+swap$ -- 121
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 192
+warning$ -- 0
+while$ -- 131
+width$ -- 0
+write$ -- 431
+(There was 1 error message)
