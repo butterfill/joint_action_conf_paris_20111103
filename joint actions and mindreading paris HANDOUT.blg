@@ -6,43 +6,43 @@ Database file #1: $HOME/endnote/phd_biblio.bib
 while executing---line 1385 of file newapa.bst
 You've used 33 entries,
             2708 wiz_defined-function locations,
-            808 strings with 9588 characters,
-and the built_in function-call counts, 14309 in all, are:
-= -- 1292
-> -- 555
-< -- 23
-+ -- 199
-- -- 195
-* -- 1414
-:= -- 2707
+            808 strings with 9627 characters,
+and the built_in function-call counts, 14348 in all, are:
+= -- 1295
+> -- 562
+< -- 22
++ -- 202
+- -- 198
+* -- 1422
+:= -- 2717
 add.period$ -- 100
 call.type$ -- 33
-change.case$ -- 260
+change.case$ -- 261
 chr.to.int$ -- 33
 cite$ -- 33
-duplicate$ -- 522
-empty$ -- 995
-format.name$ -- 248
-if$ -- 2626
+duplicate$ -- 523
+empty$ -- 994
+format.name$ -- 249
+if$ -- 2628
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 35
 newline$ -- 168
 num.names$ -- 133
-pop$ -- 154
+pop$ -- 156
 preamble$ -- 1
-purify$ -- 296
+purify$ -- 297
 quote$ -- 0
-skip$ -- 357
+skip$ -- 356
 stack$ -- 0
-substring$ -- 1054
-swap$ -- 121
+substring$ -- 1052
+swap$ -- 122
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 192
 warning$ -- 0
-while$ -- 131
+while$ -- 132
 width$ -- 0
 write$ -- 431
 (There was 1 error message)
